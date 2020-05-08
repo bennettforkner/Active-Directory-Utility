@@ -6,8 +6,8 @@ This program is made to allow end-users on Gordon College's campus add AD member
 <li>The user must be connected to the 'gordon.edu' domain (via VPN or direct internet connection).
 <li>The user must be authorized to use this tool (i.e. they must be a member of the AD group 'enduser-list' which is not editable using this utility).
   </ul>
-<br><br><b>Documentation:</b>
-<br><b>User Flow:</b>
+<br><b>Documentation:</b>
+<br><br><b>User Flow:</b>
 <ul>
   <li>
     <b>Action Choice Window:</b> If the prerequisites mentioned above are met, the user will be presented with a dialogue window asking them to select an action. The choice is presented as three horizontally-aligned buttons: ADD, REMOVE, and SEARCH. When a button is pressed, the action choice window is closed and the respective functionality detailed below is enacted.
